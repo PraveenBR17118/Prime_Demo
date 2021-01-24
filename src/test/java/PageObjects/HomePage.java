@@ -9,11 +9,11 @@ import org.openqa.selenium.support.PageFactory;
 
 public class HomePage
 {
-    public WebDriver ldriver;
+    public WebDriver driver;
 
     public HomePage(WebDriver rdriver)
     {
-        ldriver=rdriver;
+        driver =rdriver;
         PageFactory.initElements(rdriver, this);
     }
 
@@ -37,6 +37,12 @@ public class HomePage
     public void isLogoDisplayed()
     {
         Logodisplayed.isDisplayed();
+    }
+
+    public String getTextOfLogo()
+    {
+       String ab = Logodisplayed.getAttribute("alt");
+        return ab;
     }
 
 }
