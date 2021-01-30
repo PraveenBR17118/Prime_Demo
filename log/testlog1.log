@@ -1,0 +1,9 @@
+2021-01-31 01:17:33,010 [main] INFO Test Prime - Opened Browser
+2021-01-31 01:17:37,786 [main] INFO Test Prime - WebPage Opened
+2021-01-31 01:17:40,918 [main] WARN Test Prime - Logo is different
+2021-01-31 01:17:46,265 [main] INFO Test Prime - Opened signup page
+2021-01-31 01:17:47,141 [main] WARN Test Prime - Signup Logo is different
+2021-01-31 01:17:58,700 [main] INFO Test Prime - Entered phone number
+2021-01-31 01:18:18,763 [main] INFO Test Prime - Opened home page after login
+2021-01-31 01:18:19,903 [main] WARN Test Prime - Welcome logo is different
+2021-01-31 01:18:19,906 [main] WARN Test Prime - Completed Task

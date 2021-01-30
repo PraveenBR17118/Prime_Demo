@@ -23,7 +23,7 @@ public class HomePage
     @CacheLookup
     WebElement Signup;
 
-    public void clickLogout()
+    public void clickSignup()
     {
         Signup.click();
     }

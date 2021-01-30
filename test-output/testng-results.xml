@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Test Prime" duration-ms="9094" started-at="2021-01-24T23:37:11 IST" finished-at="2021-01-24T23:37:20 IST">
+  <suite name="Test Prime" duration-ms="51872" started-at="2021-01-31T01:17:28 IST" finished-at="2021-01-31T01:18:20 IST">
     <groups>
     </groups>
-    <test name="Test Prime Home page" duration-ms="9094" started-at="2021-01-24T23:37:11 IST" finished-at="2021-01-24T23:37:20 IST">
+    <test name="Test Prime Home page" duration-ms="51872" started-at="2021-01-31T01:17:28 IST" finished-at="2021-01-31T01:18:20 IST">
       <class name="TestCases.TestHomepage">
-        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:TestCases.TestHomepage@18be83e4]" name="setUp" is-config="true" duration-ms="8679" started-at="2021-01-24T23:37:11 IST" finished-at="2021-01-24T23:37:19 IST">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:TestCases.TestHomepage@4b9e13df]" name="setUp" is-config="true" duration-ms="9396" started-at="2021-01-31T01:17:28 IST" finished-at="2021-01-31T01:17:37 IST">
           <params>
             <param index="0">
               <value>
@@ -18,11 +18,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="openHomePage()[pri:0, instance:TestCases.TestHomepage@18be83e4]" name="openHomePage" duration-ms="180" started-at="2021-01-24T23:37:19 IST" finished-at="2021-01-24T23:37:19 IST">
+        <test-method status="PASS" signature="openHomePage()[pri:0, instance:TestCases.TestHomepage@4b9e13df]" name="openHomePage" duration-ms="42122" started-at="2021-01-31T01:17:37 IST" finished-at="2021-01-31T01:18:19 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openHomePage -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestCases.TestHomepage@18be83e4]" name="tearDown" is-config="true" duration-ms="192" started-at="2021-01-24T23:37:19 IST" finished-at="2021-01-24T23:37:20 IST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestCases.TestHomepage@4b9e13df]" name="tearDown" is-config="true" duration-ms="285" started-at="2021-01-31T01:18:19 IST" finished-at="2021-01-31T01:18:20 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
